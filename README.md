@@ -1,5 +1,7 @@
 # red-teaming-latent-spaces
 
+> Red Teaming Latent Spaces & Protecting LLM apps examples.
+
 ### Setup
 
 ```
